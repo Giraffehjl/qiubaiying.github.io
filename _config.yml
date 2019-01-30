@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     泊松
+zhihu_username:     hanjinglei
 github_username:    byron-han
 facebook_username:  hanjinglei
 jianshu_username:   ''
@@ -64,8 +64,8 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
+  repo: byron-han.github.io    #仓库名称
+  owner: byron-han    #github用户名
   admin: qiubaiying
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-133450563-1'            # Format: UA-xxxxxx-xx
+ga_domain: byronhan.xyz              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "QQ音乐歌单",
+        href: "http://url.cn/5fpeA3f"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "2018年流派新歌，歌曲分为R&B、民谣、电子、说唱、新世纪等类型，均为这些编辑口味，较为主观的推荐，希望你能够喜欢",
+        href: "http://url.cn/50k2b8u"
     },{
         title: "Apple",
         href: "https://apple.com"
