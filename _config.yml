@@ -94,7 +94,8 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-
+# google 搜索显示
+google-site-verification: google44f5c953e0961c33.html
 
 # Friends
 friends: [
@@ -112,3 +113,5 @@ friends: [
         href: "https://developer.apple.com/"
     }
 ]
+
+
