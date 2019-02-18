@@ -4,7 +4,7 @@ SEOTitle: Byron Han 的博客 | Byron Han Blog
 header-img: img/post-bg-desk.jpg
 email: hjl.rd@foxmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, Byron Han的博客, Byron Han, iOS, Apple, iPhone"
+keyword: "Byron Han的博客, Byron Han, 韩京磊 ,hanjinglei,hjl , HANJINGLEI"
 url: "http://byron-han.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/byron-han/byron-han.github.io.git" # you code repository
@@ -18,11 +18,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     5221893152
 zhihu_username:     hanjinglei
 github_username:    byron-han
-facebook_username:  hanjinglei
-jianshu_username:   ''
+# facebook_username:  hanjinglei
+jianshu_username:   b8208a1cf1db
 twitter_username:   hanjinglei
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: fed163f8ed8f3197cb96                           #生成的clientID
+  clientSecret: 1ed6d8a4420479fe2bc8c897b41fb3a7170f2ddb    #生成的clientSecret
   repo: byron-han.github.io    #仓库名称
   owner: byron-han    #github用户名
-  admin: qiubaiying
+  admin: byron-han
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
